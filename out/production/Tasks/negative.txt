@@ -1,0 +1,11 @@
+bad, poor, terrible, awful, disappointing, useless, waste, faulty, broken, unreliable,
+confusing, misleading, overpriced, uncomfortable, low-quality, slow, defective, inconsistent,
+annoying, horrible, pathetic, disgusting, horrendous, atrocious, abysmal,
+appalling, abominable, inadequate, inferior, mediocre, subpar, unsatisfactory, unacceptable, lousy,
+pitiful, grim, deplorable, miserable, frustrating, wretched, vile, shoddy, disastrous, insufferable,
+ghastly, shameful, nasty, disheartening, repugnant, troublesome, dismal, distasteful,
+unfavorable, hopeless, uninspiring, undesirable, ugly, unhappy, unsatisfying, regrettable,
+horrifying, detestable, disconcerting, gloomy, offensive, poorly, sickening, woeful, icky, lamentable,
+meh, woe, sorrowful, dreadful, unwanted, heartbreaking, hateful, unappealing, unattractive,
+unimpressive, unrewarding, unwelcome, unworthy, discontented, repellant, repellent, displeased,
+displeasing, repulsive, ungratifying, unpalatable, unpleasant, unsettling, unsuccessful, unsuitable
